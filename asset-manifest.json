@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/covid-19-qa/static/css/main.b054dcc8.chunk.css",
-    "main.js": "/covid-19-qa/static/js/main.ed972393.chunk.js",
-    "main.js.map": "/covid-19-qa/static/js/main.ed972393.chunk.js.map",
-    "runtime-main.js": "/covid-19-qa/static/js/runtime-main.fb9d8ea7.js",
-    "runtime-main.js.map": "/covid-19-qa/static/js/runtime-main.fb9d8ea7.js.map",
-    "static/js/2.bc980e7b.chunk.js": "/covid-19-qa/static/js/2.bc980e7b.chunk.js",
-    "static/js/2.bc980e7b.chunk.js.map": "/covid-19-qa/static/js/2.bc980e7b.chunk.js.map",
-    "index.html": "/covid-19-qa/index.html",
-    "precache-manifest.15625f56da4c07da154e333bf09967ba.js": "/covid-19-qa/precache-manifest.15625f56da4c07da154e333bf09967ba.js",
-    "service-worker.js": "/covid-19-qa/service-worker.js",
-    "static/css/main.b054dcc8.chunk.css.map": "/covid-19-qa/static/css/main.b054dcc8.chunk.css.map",
-    "static/js/2.bc980e7b.chunk.js.LICENSE.txt": "/covid-19-qa/static/js/2.bc980e7b.chunk.js.LICENSE.txt"
+    "main.css": "https://brianloughnane.github.io/covid-19-qa/static/css/main.b054dcc8.chunk.css",
+    "main.js": "https://brianloughnane.github.io/covid-19-qa/static/js/main.aedf97a9.chunk.js",
+    "main.js.map": "https://brianloughnane.github.io/covid-19-qa/static/js/main.aedf97a9.chunk.js.map",
+    "runtime-main.js": "https://brianloughnane.github.io/covid-19-qa/static/js/runtime-main.3c6ce387.js",
+    "runtime-main.js.map": "https://brianloughnane.github.io/covid-19-qa/static/js/runtime-main.3c6ce387.js.map",
+    "static/js/2.bc980e7b.chunk.js": "https://brianloughnane.github.io/covid-19-qa/static/js/2.bc980e7b.chunk.js",
+    "static/js/2.bc980e7b.chunk.js.map": "https://brianloughnane.github.io/covid-19-qa/static/js/2.bc980e7b.chunk.js.map",
+    "index.html": "https://brianloughnane.github.io/covid-19-qa/index.html",
+    "precache-manifest.41685f47259570fffa7e50056119d0d9.js": "https://brianloughnane.github.io/covid-19-qa/precache-manifest.41685f47259570fffa7e50056119d0d9.js",
+    "service-worker.js": "https://brianloughnane.github.io/covid-19-qa/service-worker.js",
+    "static/css/main.b054dcc8.chunk.css.map": "https://brianloughnane.github.io/covid-19-qa/static/css/main.b054dcc8.chunk.css.map",
+    "static/js/2.bc980e7b.chunk.js.LICENSE.txt": "https://brianloughnane.github.io/covid-19-qa/static/js/2.bc980e7b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb9d8ea7.js",
+    "static/js/runtime-main.3c6ce387.js",
     "static/js/2.bc980e7b.chunk.js",
     "static/css/main.b054dcc8.chunk.css",
-    "static/js/main.ed972393.chunk.js"
+    "static/js/main.aedf97a9.chunk.js"
   ]
 }
