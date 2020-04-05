@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://brianloughnane.github.io/covid-19-qa/static/css/main.b054dcc8.chunk.css",
-    "main.js": "https://brianloughnane.github.io/covid-19-qa/static/js/main.aedf97a9.chunk.js",
-    "main.js.map": "https://brianloughnane.github.io/covid-19-qa/static/js/main.aedf97a9.chunk.js.map",
+    "main.js": "https://brianloughnane.github.io/covid-19-qa/static/js/main.06fccf34.chunk.js",
+    "main.js.map": "https://brianloughnane.github.io/covid-19-qa/static/js/main.06fccf34.chunk.js.map",
     "runtime-main.js": "https://brianloughnane.github.io/covid-19-qa/static/js/runtime-main.3c6ce387.js",
     "runtime-main.js.map": "https://brianloughnane.github.io/covid-19-qa/static/js/runtime-main.3c6ce387.js.map",
     "static/js/2.bc980e7b.chunk.js": "https://brianloughnane.github.io/covid-19-qa/static/js/2.bc980e7b.chunk.js",
     "static/js/2.bc980e7b.chunk.js.map": "https://brianloughnane.github.io/covid-19-qa/static/js/2.bc980e7b.chunk.js.map",
     "index.html": "https://brianloughnane.github.io/covid-19-qa/index.html",
-    "precache-manifest.41685f47259570fffa7e50056119d0d9.js": "https://brianloughnane.github.io/covid-19-qa/precache-manifest.41685f47259570fffa7e50056119d0d9.js",
+    "precache-manifest.5a94095ef3f3c6a48c24dc031cf36fb8.js": "https://brianloughnane.github.io/covid-19-qa/precache-manifest.5a94095ef3f3c6a48c24dc031cf36fb8.js",
     "service-worker.js": "https://brianloughnane.github.io/covid-19-qa/service-worker.js",
     "static/css/main.b054dcc8.chunk.css.map": "https://brianloughnane.github.io/covid-19-qa/static/css/main.b054dcc8.chunk.css.map",
     "static/js/2.bc980e7b.chunk.js.LICENSE.txt": "https://brianloughnane.github.io/covid-19-qa/static/js/2.bc980e7b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3c6ce387.js",
     "static/js/2.bc980e7b.chunk.js",
     "static/css/main.b054dcc8.chunk.css",
-    "static/js/main.aedf97a9.chunk.js"
+    "static/js/main.06fccf34.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8160eb3cd6d8d9c0ddd175d3a04c45cc",
+    "revision": "33f2b034b15e4238f7c229a68aa69713",
     "url": "https://brianloughnane.github.io/covid-19-qa/index.html"
   },
   {
-    "revision": "2e45ce76977f866ce96a",
+    "revision": "758531773a191abcc4bb",
     "url": "https://brianloughnane.github.io/covid-19-qa/static/css/main.b054dcc8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://brianloughnane.github.io/covid-19-qa/static/js/2.bc980e7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2e45ce76977f866ce96a",
-    "url": "https://brianloughnane.github.io/covid-19-qa/static/js/main.aedf97a9.chunk.js"
+    "revision": "758531773a191abcc4bb",
+    "url": "https://brianloughnane.github.io/covid-19-qa/static/js/main.06fccf34.chunk.js"
   },
   {
     "revision": "1b16c490a31c604f27b5",
